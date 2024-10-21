@@ -10,3 +10,5 @@ bundle do |bundle|
   bundle.repository = ""
   
 end
+#incldue<studio.h>
+
